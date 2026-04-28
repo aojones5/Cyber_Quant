@@ -1,3 +1,5 @@
+#handels the dataset 
+#prepares mode
 import os
 import pickle
 import numpy as np
