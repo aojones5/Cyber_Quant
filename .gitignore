@@ -1,5 +1,5 @@
 ham/*
 spam/*
-.venv/
+venv/
 __pycache__/
 *.pyc
